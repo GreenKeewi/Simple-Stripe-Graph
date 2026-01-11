@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Notion Revenue",
+  "description": "An ultra-minimal revenue dashboard designed to look native inside Notion embeds.",
+  "requestFramePermissions": []
+}
